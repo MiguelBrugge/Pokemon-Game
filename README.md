@@ -1,7 +1,7 @@
 # Pokemon-Game
 This is the Pokemon Game project. At the start of the game you set a name and choose your starter Pokemon. Then you have multiple options to choose from.
 
-####Background Music
+#### Background Music
 I made the background sound method by making a variable for the path. I looped through the while loop wich played the music and wait until the music is over so it will be repeated.
 ```Java
 public static void backgroundMusic() {
